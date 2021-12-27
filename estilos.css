@@ -1,0 +1,21 @@
+html{
+    padding: 0;
+    margin: 0;
+}
+body{
+    padding: 0;
+    margin: 0;
+}
+h1{
+    font-size: 25px;
+    height: 50px;
+}
+li{
+    width: 200px;
+}
+.bloque2{
+    height: 58px;
+}
+article{
+    padding: 5px;
+}
